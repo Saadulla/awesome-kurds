@@ -129,6 +129,7 @@ add other awesome Kurds, including you!
 - [Rekar Botany](https://github.com/RekarBotany)
 - [Revan Sarbast](https://github.com/Revan99): React, Node.js SQL, MongoDB
 - [Sabat](https://github.com/Sabat96)
+- [Saadulla D.](https://saadulla.com): PHP, Laravel, MySQL, WordPress, Figma
 - [Samrand Hassan](https://github.com/samrandhaji)
 - [Shabang](https://github.com/shabang99)
 - [Shad Abdalla](https://facebook.com/shad.cs): Laravel, PHP, SQL
